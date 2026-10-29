@@ -5,7 +5,7 @@ permalink: /
 subtitle: Mechanical Engineering PhD Student · Rice University
 profile:
   align: right
-  image: xinyi-huang.png
+  image: xinyi-huang-portrait.jpg
   image_circular: false
 
 selected_papers: false
@@ -19,10 +19,7 @@ latest_posts:
 <style>
   .profile img {
     width: 100%;
-    aspect-ratio: 4 / 5;
     height: auto;
-    object-fit: cover;
-    object-position: 15% 50%;
   }
 </style>
 
