@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xinyi
-middle_name:
+middle_name: (Cindy)
 last_name: Huang
 contact_note: ""
 description: >
-  Xinyi Huang (preferred name: Cindy) is a Mechanical Engineering PhD student at Rice University.
+  Xinyi (Cindy) Huang is a Mechanical Engineering PhD student at Rice University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

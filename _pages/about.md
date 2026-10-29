@@ -8,8 +8,7 @@ profile:
   image: xinyi-huang.png
   image_circular: false
   more_info: >
-    <p>Xinyi Huang</p>
-    <p>Preferred name: Cindy</p>
+    <p>Xinyi (Cindy) Huang</p>
 
 selected_papers: false
 social: true
@@ -19,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Xinyi Huang**, a PhD student in **Mechanical Engineering at Rice University**, where I also serve as a Research Assistant and Teaching Assistant. I began my doctoral studies in August 2026 and am advised by [**Prof. Matthew Brake**](https://me.udel.edu/faculty/matthew-brake/).
+I am **Xinyi (Cindy) Huang**, a PhD student in **Mechanical Engineering at Rice University**, where I also serve as a Research Assistant and Teaching Assistant. I began my doctoral studies in August 2026 and am advised by [**Prof. Matthew Brake**](https://me.udel.edu/faculty/matthew-brake/).
 
 My research focuses on **data-driven methods for videographic measurement techniques**. I am a graduate researcher in the [**NOMAD.AI Lab**](https://sites.udel.edu/brake/), which studies nonlinear mechanics and dynamics of assemblies and interfaces.
 
