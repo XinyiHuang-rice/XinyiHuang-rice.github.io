@@ -7,8 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=education-2">
-
 <div class="academic-page">
   <section class="research-focus education-focus" aria-labelledby="rice-education">
     <p class="academic-label">Current · Doctoral studies</p>

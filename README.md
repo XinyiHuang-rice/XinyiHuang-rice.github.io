@@ -24,3 +24,5 @@ Current advisor and research topic are supported by the [NOMAD.AI lab members pa
 Portrait: the user’s LinkedIn profile photo, saved locally as `assets/img/xinyi-huang.png`.
 
 The site contains no unverified publications or research results.
+
+Navigation and academic page styling are loaded globally through `_plugins/site_presentation.rb`. The stylesheet URL includes its content hash so updates refresh consistently across all pages.

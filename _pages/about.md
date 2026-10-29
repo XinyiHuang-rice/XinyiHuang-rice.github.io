@@ -16,8 +16,6 @@ latest_posts:
   enabled: false
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=education-2">
-
 <style>
   .profile img {
     width: 100%;
