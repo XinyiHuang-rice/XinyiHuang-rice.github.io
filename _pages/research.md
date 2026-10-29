@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=education-2">
 
 <div class="academic-page">
   <section class="research-focus" aria-labelledby="current-focus">
