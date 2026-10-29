@@ -19,4 +19,8 @@ Commit changes to `main`; GitHub Actions checks, builds, and deploys the website
 
 Preferred name: Cindy. Education and experience are based on the LinkedIn profile at https://www.linkedin.com/in/xy-huang/. Dates reflect that profile, including its ongoing SUSTech research assistant appointment.
 
-The site contains no unverified publications, research results, contact information, or portrait. Add these only when confirmed.
+Current advisor and research topic are supported by the [NOMAD.AI lab members page](https://sites.udel.edu/brake/staff-and-facilities/members/) and the user’s supplied advisor profiles. Prof. Brake’s current faculty profile is at the University of Delaware; the student’s Rice affiliation is retained as provided.
+
+Portrait: the user’s LinkedIn profile photo, saved locally as `assets/img/xinyi-huang.png`.
+
+The site contains no unverified publications or research results.
