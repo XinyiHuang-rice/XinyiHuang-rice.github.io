@@ -7,8 +7,6 @@ profile:
   align: right
   image: xinyi-huang.png
   image_circular: false
-  more_info: >
-    <p>Xinyi (Cindy) Huang</p>
 
 selected_papers: false
 social: true
@@ -17,6 +15,16 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<style>
+  .profile img {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    height: auto;
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+</style>
 
 I am **Xinyi (Cindy) Huang**, a PhD student in **Mechanical Engineering at Rice University**, where I also serve as a Research Assistant and Teaching Assistant. I began my doctoral studies in August 2026 and am advised by [**Prof. Matthew Brake**](https://me.udel.edu/faculty/matthew-brake/).
 
