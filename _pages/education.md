@@ -9,8 +9,12 @@ nav_order: 1
 
 ## Rice University
 
-**PhD in Mechanical Engineering — in progress**
+**Doctor of Philosophy in Mechanical Engineering**
 
-Department of Mechanical Engineering
+August 2026 – Present
 
-Additional education details will be added as this website develops.
+## Southern University of Science and Technology
+
+**Bachelor of Science in Theoretical and Applied Mechanics**
+
+August 2022 – July 2026

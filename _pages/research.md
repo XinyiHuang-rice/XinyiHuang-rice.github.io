@@ -2,11 +2,39 @@
 layout: page
 title: research
 permalink: /research/
-description: Mechanical Engineering · Rice University
+description: Research and teaching experience
 nav: true
 nav_order: 2
 ---
 
-I am pursuing doctoral studies in Mechanical Engineering at Rice University.
+## Research Experience
 
-Details of my research interests and projects will be shared here as they become available.
+### Rice University
+
+**Research Assistant**
+
+August 2026 – Present
+
+### Southern University of Science and Technology
+
+**Research Assistant**
+
+July 2023 – Present
+
+Advised by **Prof. Wei Hong**.
+
+### University of Notre Dame
+
+**Research Assistant**
+
+July 2025 – August 2025
+
+Advised by **Prof. Jian-xun Wang**.
+
+## Teaching Experience
+
+### Rice University
+
+**Teaching Assistant**
+
+August 2026 – Present

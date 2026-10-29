@@ -11,8 +11,10 @@ latest_posts:
   enabled: false
 ---
 
-I am **Cindy Huang**, a PhD student in **Mechanical Engineering at Rice University**.
+**Preferred name: Cindy**
 
-Welcome to my academic website. Here I share my educational background and updates on my research as they become available.
+I am **Xinyi Huang**, a PhD student in **Mechanical Engineering at Rice University**, where I also serve as a Research Assistant and Teaching Assistant. I began my doctoral studies in August 2026.
 
-Learn more about my [education]({{ '/education/' | relative_url }}) and [research]({{ '/research/' | relative_url }}).
+I received my **B.S. in Theoretical and Applied Mechanics** from **Southern University of Science and Technology (SUSTech)** in July 2026. My research experience includes working with **Prof. Wei Hong** at SUSTech and **Prof. Jian-xun Wang** at the **University of Notre Dame**.
+
+Learn more about my [education]({{ '/education/' | relative_url }}) and [research and teaching experience]({{ '/research/' | relative_url }}), or connect with me on [LinkedIn](https://www.linkedin.com/in/xy-huang/).

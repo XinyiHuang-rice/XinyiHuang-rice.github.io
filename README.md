@@ -1,6 +1,6 @@
-# Cindy Huang — Academic Website
+# Xinyi Huang — Academic Website
 
-Personal academic website for Cindy Huang, a Mechanical Engineering PhD student at Rice University.
+Personal academic website for Xinyi Huang, a Mechanical Engineering PhD student at Rice University.
 
 Website: https://xinyihuang-rice.github.io/
 
@@ -17,4 +17,6 @@ Created from the [al-folio template](https://github.com/alshedivat/al-folio).
 
 Commit changes to `main`; GitHub Actions checks, builds, and deploys the website automatically. Pages uses **GitHub Actions** as its source.
 
-The current site intentionally contains no unverified publications, research claims, dates, contact information, or portrait. Add these only when confirmed.
+Preferred name: Cindy. Education and experience are based on the LinkedIn profile at https://www.linkedin.com/in/xy-huang/. Dates reflect that profile, including its ongoing SUSTech research assistant appointment.
+
+The site contains no unverified publications, research results, contact information, or portrait. Add these only when confirmed.

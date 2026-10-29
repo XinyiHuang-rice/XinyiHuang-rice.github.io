@@ -3,16 +3,16 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Cindy
+first_name: Xinyi
 middle_name:
 last_name: Huang
 contact_note: ""
 description: >
-  Cindy Huang is a Mechanical Engineering PhD student at Rice University.
+  Xinyi Huang (preferred name: Cindy) is a Mechanical Engineering PhD student at Rice University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Cindy Huang, Rice University, mechanical engineering, PhD
+keywords: Xinyi Huang, Cindy Huang, Rice University, mechanical engineering, PhD
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚙️
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Cindy Huang
+blog_name: Xinyi Huang
 blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
