@@ -22,7 +22,7 @@ latest_posts:
     aspect-ratio: 4 / 5;
     height: auto;
     object-fit: cover;
-    object-position: 50% 50%;
+    object-position: 15% 50%;
   }
 </style>
 
